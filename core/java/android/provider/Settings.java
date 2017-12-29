@@ -3937,6 +3937,12 @@ public final class Settings {
         public static final String KEYGUARD_CHARGE_COLOR = "keyguard_charge_color";
 
         /**
+         * Color of the lock icon on lockscreen
+         * @hide
+         */
+        public static final String KEYGUARD_LOCK_ICON_COLOR = "keyguard_lock_icon_color";
+
+        /**
          * I am the lolrus.
          * <p>
          * Nonzero values indicate that the user has a bukkit.
