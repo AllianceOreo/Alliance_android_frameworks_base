@@ -3931,6 +3931,12 @@ public final class Settings {
         public static final String MAIN_TEXT_COLOR = "main_text_color";
 
         /**
+         * Color of the keyguard charging text
+         * @hide
+         */
+        public static final String KEYGUARD_CHARGE_COLOR = "keyguard_charge_color";
+
+        /**
          * I am the lolrus.
          * <p>
          * Nonzero values indicate that the user has a bukkit.
